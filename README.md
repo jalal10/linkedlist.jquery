@@ -32,5 +32,5 @@ Exemple d'utilisation
 </body>
 </html>
 ```
-**NB : ** il faut ajouter l'attribut *parent* au niveau de la balise *<option>* en précisant l'id de l'élément parent.
+**NB : ** il faut ajouter l'attribut *parent* au niveau de la balise *```<option>```* en précisant l'id de l'élément parent.
 Par exemple, toutes les villes du Maroc aurons comme *parent* la valeur *1*.
